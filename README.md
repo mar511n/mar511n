@@ -8,3 +8,13 @@
 | Domain decomposition in MPTRAC - Performance evaluation and scaling tests | Guest student programme | Jülich Supercomputing Centre | English  | [PDF](https://raw.githubusercontent.com/mar511n/presentations/main/MPTRAC/GSP_presentation.pdf) |
 | Auflösungseffekte in Modellen verschiedener Reynolds-Regime für Unterschallströmungen um ein Hindernis | Presentation of my bachelor thesis | Faculty for Physics, University Duisburg-Essen | German | [PDF](https://raw.githubusercontent.com/mar511n/presentations/main/Bachelor%20thesis/Bachelorarbeit_presentation.pdf) |
 | Curvature and Torsion in the Continuum Theory of Lattice Defects | Poster for the DPG Spring Meeting | Faculty for Physics, University Duisburg-Essen | English | [PDF](https://raw.githubusercontent.com/mar511n/presentations/main/Master%20thesis%20poster/poster.pdf) |
+
+# SnakePro
+- [Original version in golang](https://github.com/mar511n/SnakeProGo_old)
+- [second version in Godot](https://github.com/mar511n/SnakePro)
+- [a new version in golang](https://github.com/mar511n/SnakeProGo)
+- currently working on a rust api & Godot frontend
+
+# Random projects
+- [TabViewer](https://github.com/mar511n/TabViewer)
+- [Pogo jump](https://mar511n.github.io)
